@@ -13,7 +13,7 @@ Lista de exercícios realizados durante o curso "Python 3" do **Curso em Vídeo*
 
 ## Exercícios Resolvidos
 
-[Índice](./exercises_cv/indice.md) dos exercícios.
+[Índice](./indice.md) dos exercícios.
 
 
 ## Nota Pessoal
