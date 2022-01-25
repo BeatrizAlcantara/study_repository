@@ -1,10 +1,10 @@
 ## Exercícios
 
-### [__Mundo 1__](https://github.com/alcantaralbeatriz/studying_py_repository/tree/master/exercises_cv/mundo01)
+### [__Mundo 1__](./mundo01)
 
 __Aula 01 a 05__
 
-   [1.](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_cv/mundo01/exCV1_2.py) Faça um programa que escreva "Hello world!".
+   [1.](./mundo01/exCV1_2.py) Faça um programa que escreva "Hello world!".
 
    [2.](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_cv/mundo01/exCV1_2.py) Faça um programa que leia o nome do usuário e mostra uma msg de boas-vindas.
 
