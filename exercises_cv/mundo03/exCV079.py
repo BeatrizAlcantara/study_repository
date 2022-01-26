@@ -1,4 +1,4 @@
-#79 Faça um programa que o usuário forneca vários valores numericos, e cadastre-os em uma lista. Caso o número já exista, ele não será adicionado. No fim, serão exibidos todos os valores únicos digitados, em ordem crescente.
+# 79 Faça um programa que o usuário forneca vários valores numericos, e cadastre-os em uma lista. Caso o número já exista, ele não será adicionado. No fim, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
 def Main079():
     numeros = list()

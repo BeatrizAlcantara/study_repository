@@ -1,6 +1,6 @@
 #21. Faça um programa que abra e reproduza o áudio de um arquivo MP3.
 
-import pygame #vscode
+import pygame #vscode - pip install pygame
 
 def Main021():
     print('É hora de chorar..')
