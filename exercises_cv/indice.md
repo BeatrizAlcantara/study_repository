@@ -188,7 +188,7 @@ __Aula 16__
 
 __Aula 17__
 
-   [78.](./mundo03/exCV077.py) Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+   [78.](./mundo03/exCV078.py) Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
 
    79. Faça um programa onde o usuário digite vários valores numéricos e cadastre-os em uma lista. Caso o número já exista na lista, ele não será adiconado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
