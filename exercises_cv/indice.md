@@ -190,15 +190,15 @@ __Aula 17__
 
    [78.](./mundo03/exCV078.py) Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
 
-   79. Faça um programa onde o usuário digite vários valores numéricos e cadastre-os em uma lista. Caso o número já exista na lista, ele não será adiconado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
+   [79.](./mundo03/exCV079.py) Faça um programa onde o usuário digite vários valores numéricos e cadastre-os em uma lista. Caso o número já exista na lista, ele não será adiconado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
-   80. Faça um programa onde o usuário possa digitar 5 valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
+   [80.](./mundo03/exCV080.py) Faça um programa onde o usuário possa digitar 5 valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
 
-   81. Faça um programa que leia vários números e coloque em uma lista. Depois mostre: quantos números foram digitados; a lista de valores ordenada de forma decrescente; se o valor 5 foi digitado e está ou não na lista.
+   [81.](./mundo03/exCV081.py) Faça um programa que leia vários números e coloque em uma lista. Depois mostre: quantos números foram digitados; a lista de valores ordenada de forma decrescente; se o valor 5 foi digitado e está ou não na lista.
 
-   82. Faça um programa que leia vários números, coloque-os em uma lista, e crie uma lista com os números pares e outra com ímpares. Ao final, mostre as 3 listas.
+   [82.](./mundo03/exCV082.py) Faça um programa que leia vários números, coloque-os em uma lista, e crie uma lista com os números pares e outra com ímpares. Ao final, mostre as 3 listas.
 
-   83. Faça um programa onde o usuário digite uma expressão qualquer que use parênteses. O programa dirá se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+   [83.](./mundo03/exCV083.py) Faça um programa onde o usuário digite uma expressão qualquer que use parênteses. O programa dirá se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
 __Aula 18__
 
